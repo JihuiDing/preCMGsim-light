@@ -1,0 +1,3 @@
+case_num,PORO_file,PERMX_file
+1,data_properties/JD_BASECASE_10_PORO.dat,data_properties/JD_BASECASE_10_PERMX.dat
+2,data_properties/JD_BASECASE_25_PORO.dat,data_properties/JD_BASECASE_25_PERMX.dat
